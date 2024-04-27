@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SGMSystem/static/css/main.1d996a88.css",
+    "main.js": "/SGMSystem/static/js/main.7c0ce203.js",
+    "static/js/453.175a2e02.chunk.js": "/SGMSystem/static/js/453.175a2e02.chunk.js",
+    "static/media/th.jpg.jpg": "/SGMSystem/static/media/th.jpg.2e42d72d4b9c47f87d08.jpg",
+    "static/media/attend.svg": "/SGMSystem/static/media/attend.bbe382e96dffdb5a14778e6baa30c1e9.svg",
+    "static/media/feedback.svg": "/SGMSystem/static/media/feedback.4be250d9eff8a1b42ec780db6af473f4.svg",
+    "static/media/book.svg": "/SGMSystem/static/media/book.d0818958c1781effdf31a05a83eeaf15.svg",
+    "index.html": "/SGMSystem/index.html",
+    "static/media/graduation-cap.svg": "/SGMSystem/static/media/graduation-cap.7141c606f1514ca5f1d2daf1d7f94315.svg",
+    "static/media/home.svg": "/SGMSystem/static/media/home.e89d69960ed2f901f10069a1b91ac1b4.svg",
+    "main.1d996a88.css.map": "/SGMSystem/static/css/main.1d996a88.css.map",
+    "main.7c0ce203.js.map": "/SGMSystem/static/js/main.7c0ce203.js.map",
+    "453.175a2e02.chunk.js.map": "/SGMSystem/static/js/453.175a2e02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d996a88.css",
+    "static/js/main.7c0ce203.js"
+  ]
+}
